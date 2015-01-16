@@ -1,4 +1,4 @@
-# calculator.rb - this app will take two numbers and add, subtract, multiply or divide them
+# calculator2.rb - an update of calculator.rb, because I'm having trouble pushing an update of that file to Github
 
 puts "Please enter the first number:"
 user_input_1 = gets.chomp
